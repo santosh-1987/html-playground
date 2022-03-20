@@ -1,0 +1,18 @@
+.grey-background {
+  background-color: #ccc;
+}
+
+.blue-heading {
+  color: blue;
+  background-color: white;
+}
+
+main {
+  background-color: bisque;
+  width: 50%;
+}
+
+div {
+  background-color: azure;
+  width: 50%;
+}
