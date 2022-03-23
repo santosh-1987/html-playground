@@ -1,6 +1,6 @@
 ## Notes
 
-- CMD+SHIFT+P opens search commands window
+- VS Code - CMD+SHIFT+P opens search commands window
 - Use Live Server to Hot reload in VS CODE
 - Once Live server is installed click on Go live icon to start server
 - HTML -> Structure
